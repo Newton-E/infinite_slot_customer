@@ -1,1 +1,2 @@
-# infinite_slot_customer
+# customer
+The customer side of infinit slot project
